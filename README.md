@@ -1,3 +1,21 @@
+# Created following these instructions:
+[Base tutorial](https://github.com/gitname/react-gh-pages?tab=readme-ov-file).
+
+## Branches
+Source code in main branch.\
+Build? in gh-pages branch.\
+
+## Deploy??
+Building, pushing to gh-pages branch, and publishing done by running:
+
+### `npm run deploy`
+
+You can check the GitHub pages update progress in the Actions tab.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
